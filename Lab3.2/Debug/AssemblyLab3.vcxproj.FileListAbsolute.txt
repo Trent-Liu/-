@@ -1,0 +1,4 @@
+E:\DOSBoxworkspace\AssemblyLab3\Debug\AssemblyLab3.exe
+E:\DOSBoxworkspace\AssemblyLab3\Debug\AssemblyLab3.pdb
+E:\WorkSpaces\AssemblyWorkSpace\Lab3.2\Debug\AssemblyLab3.exe
+E:\WorkSpaces\AssemblyWorkSpace\Lab3.2\Debug\AssemblyLab3.pdb

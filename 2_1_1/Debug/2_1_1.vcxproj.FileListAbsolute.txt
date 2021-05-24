@@ -1,0 +1,2 @@
+E:\DOSBoxworkspace\2_1_1\Debug\2_1_1.exe
+E:\DOSBoxworkspace\2_1_1\Debug\2_1_1.pdb

@@ -1,0 +1,4 @@
+﻿  main.c
+E:\DOSBoxworkspace\AssemblyLab3\main.c(91,9): warning C4013: “system”未定义；假设外部返回 int
+E:\DOSBoxworkspace\AssemblyLab3\main.c(101,1): warning C4047: “初始化”:“GOODS (*)[10]”与“int *”的间接级别不同
+  AssemblyLab3.vcxproj -> E:\DOSBoxworkspace\AssemblyLab3\Debug\AssemblyLab3.exe
