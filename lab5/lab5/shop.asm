@@ -102,8 +102,11 @@ WinMain      proc   hInst:DWORD,hPrevInst:DWORD,CmdLine:DWORD,CmdShow:DWORD
 	     LOCAL  wc:WNDCLASSEX
 	     LOCAL  msg:MSG
 	     LOCAL  hWnd:HWND
-             invoke RtlZeroMemory,addr wc,sizeof wc
+         invoke RtlZeroMemory,addr wc,sizeof wc
 	     mov    wc.cbSize,SIZEOF WNDCLASSEX
+		 ;
+		 ;CS_HEADRAW 移动或调整更改了工作区的宽度，则重绘整个窗口
+		 ;CS_VREDRAW 高度
 	     mov    wc.style, CS_HREDRAW or CS_VREDRAW
 	     mov    wc.lpfnWndProc, offset WndProc
 	     mov    wc.cbClsExtra,NULL

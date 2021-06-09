@@ -1,6 +1,1 @@
-﻿  Assembling shop.asm...
-shop.asm(138): warning A6004: procedure argument or local not referenced : hPrevInst
-shop.asm(138): warning A6004: procedure argument or local not referenced : CmdLine
-shop.asm(138): warning A6004: procedure argument or local not referenced : CmdShow
-legacy_stdio_wide_specifiers.lib(legacy_stdio_wide_specifiers.obj) : warning LNK4210: 存在 .CRT 节；可能有未处理的静态初始值设定项或结束符
-  lab5.vcxproj -> E:\WorkSpaces\AssemblyWorkSpace\lab5\Debug\lab5.exe
+﻿  lab5.vcxproj -> E:\WorkSpaces\AssemblyWorkSpace\lab5\Debug\lab5.exe
